@@ -1,0 +1,72 @@
+#title {
+  background-color: #ffc;
+}
+* {
+  font-family: helvetica, arial , sans-serif;
+}
+body {
+  background-color:OldLace;
+  position: static;
+}
+
+hr {
+  border-style:none;
+  background-color:OldLace;
+  height:2px;
+  position: static;
+}
+
+h3 {
+  color:#4B0082;
+  position: static;
+}
+
+h1 {
+  color:#6B703F;
+  position: static;
+  font-family: Montserrat-black;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+hr {
+    background-color:white;
+    color: grey;
+    position: static;
+}
+h2 {
+  color:green;
+  position: static;
+}
+
+
+.contact{
+  margin-left: 650px;
+  float: inherit;
+  clear: left;
+  position: static;
+}
+.background {
+  margin-left: 650px;
+  float: inherit;
+  clear: left;
+}
+.li {
+    position: static;
+    font-size:20px;
+}
+
+.ref {
+  color:#905EED;
+}
+
+.navbar-brand {
+  font-family: Montserrat-black;
+}
+.container-fluid{
+  padding: 7px, 15px;
+}
+.container {
+  font-size: 25px;
+}
